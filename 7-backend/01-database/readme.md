@@ -42,3 +42,20 @@ Common database categories include:
 ![img.png](img.png)
 
 For quick explanation: https://www.youtube.com/watch?v=W2Z7fbCLSTw
+
+
+<details >
+ <summary style="font-size: large; font-weight: bold">SQL Database (Fireship)</summary>
+
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_3.png](img_3.png)
+![img_2.png](img_2.png)
+
+Referred Video: https://www.youtube.com/watch?v=zsjvFFKOm3c
+
+Go through this Fireship long video and make notes when have time: https://www.youtube.com/watch?v=Cz3WcZLRaWc
+
+-----
+</details>

@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 4s
+
+scrape_configs:
+  - job_name: prometheus
+    static_configs:
+      - targets: ["172.29.164.186:8000"]

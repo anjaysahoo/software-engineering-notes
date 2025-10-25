@@ -573,3 +573,16 @@ https://www.youtube.com/watch?v=kpXKwDGtjGE
 
 ---
 </details>
+
+
+
+<details >
+ <summary style="font-size: medium; font-weight: bold">Specificity</summary>
+
+![img_28.png](img_28.png)
+
+Blog: https://blog.webdevsimplified.com/2020-02/css-specificity/
+Refer: https://youtu.be/CHyPGSpIhSs?si=LY1e6dmLNTGhoj7j
+
+----
+</details>
