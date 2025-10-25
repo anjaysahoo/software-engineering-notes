@@ -519,3 +519,13 @@ Helm Chart Explanation: https://www.youtube.com/watch?v=fy8SHvNZGeE
 -----
 </details>
 
+
+<details >
+ <summary style="font-size: x-large; font-weight: bold">NGINX</summary>
+
+1. https://youtu.be/JKxlsvZXG7c?si=upDb_M6nWsdKXJ7J
+2. https://www.youtube.com/watch?v=I6dpN0geIb4
+
+-----
+</details>
+
