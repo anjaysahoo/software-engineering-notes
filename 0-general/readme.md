@@ -13,6 +13,13 @@ Code Review is a powerful tool that:
 
 ![img.png](img.png)
 
+In general, framing feedback as questions is a good way to drive for clarity, correctness, and at the same time help the developer improve their designs in the future. This is usually how quality creative writing groups give each other feedback. In a creative writing setting, it’s harmful to say things like, “I don’t like this character.” whereas the same comment can be reframed more clearly: “In chapter one your character was warm and compassionate and now he’s cold and icey. He doesn’t seem like a real person to me.” Now there’s specific feedback that can be clarified to suss out the problem.
+
+Programmers like to solve problems and point out issues, so by nature they like to discover and point out flaws. It’s tempting to see code reviews as a way to prove how smart you are by finding problems in your peer’s code. Don’t do it. Code review is a way to get more eyes on a change and suss out critical problems, but your goal should be to review in a way that encourages your team members to improve their skills while fixing the problems at hand.
+
+#### Style Points
+Brace positions, variable / function names, indentation and spacing issues should be addressed, but they are not the central purpose of good code review (notice that I put them at the top the code review pyramid). If you find that your team is spending 90% of it’s time nitpicking indentation and variable names, you’re probably wasting everyone’s time on something that could be mostly automated. Write up a style guide, enforce indentation and spacing issues on check-in and spend your time focusing on higher value issues. I don’t want to diminish the importance of a consistent style. On the contrary, having a consistent idiomatic style is one of the easiest ways to make your codebase easy to read and comprehend. Still, if you spend all of your code review focused on these simplistic tasks, ask yourself whether you’re avoiding the harder and more important work of keeping your team mentally aligned and thinking about higher level designs.
+
 Referred from: https://blakesmith.me/2015/02/09/code-review-essentials-for-software-teams.html
 
 ----
