@@ -2,6 +2,7 @@
  <summary style="font-size: large; font-weight: bold">Explain the differences between CommonJS modules and ES modules in JavaScript
 </summary>
 
+![img_5.png](img_5.png)
 
 ## TL;DR
 
@@ -430,6 +431,18 @@ This is a browser-reported string that allows the network protocol peers to iden
   - Bear in mind that your `package.json` contains only your `direct dependencies`, not the dependencies of your dependencies (sometimes called nested or transitive dependencies). This means with the standard `package.json` you can't control the versions of those `nested dependencies`, referencing them directly or as peer dependencies won't help as you also don't control the version tolerance that your direct dependencies define for these nested dependencies.
 
 https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json
+
+---
+</details>
+
+
+
+<details >
+ <summary style="font-size: medium; font-weight: bold">Proxy & Reflect: Powerful Metaprogramming Tools 🧙‍♂️💻</summary>
+
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
 
 ---
 </details>

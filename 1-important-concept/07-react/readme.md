@@ -4209,6 +4209,34 @@ export default MyVirtualizedList;
 
 **Note:** Million Lint is a VSCode extension that speeds up your website! Your React app is slow. Million Lint surfaces problematic code and automatically suggests ways to improve it.https://million.dev/docs
 
+
+
+<details >
+ <summary style="font-size: medium; font-weight: bold">React Profiler</summary>
+
+- The React Profiler is a tool for measuring the rendering performance of React components. It helps identify performance bottlenecks by providing detailed insights into render times, component updates, and re-render frequencies. Integrated into React DevTools, it's essential for optimizing complex React applications.
+- To use the Profiler, you wrap components with the <Profiler> component and provide an onRender callback function. This function receives performance data each time a component within the Profiler tree updates. The Profiler measures how often and at what cost a React application renders, aiding in the identification of slow parts that could benefit from optimization techniques like memoization.
+
+```jsx
+import React, { Profiler } from 'react';
+
+const onRender = (id, phase, actualDuration, baseDuration, startTime, commitTime, interactions) => {
+  // Process performance data here
+  console.log(`Component: ${id}, Phase: ${phase}, Actual Duration: ${actualDuration}`);
+};
+
+function MyComponent() {
+  return (
+    <Profiler id="MyComponent" onRender={onRender}>
+      {/* Component content */}
+    </Profiler>
+  );
+}
+```
+
+---
+</details>
+
 ---
 </details>
 

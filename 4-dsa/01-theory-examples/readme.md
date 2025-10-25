@@ -248,54 +248,38 @@ Arrays.sort(nums, index + 1, l);
 - Space Complexity: `O(1)`
 
 ```js
-public
+/**
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
+ */
+var nextPermutation = function(nums) {
+        let i = nums.length - 2;
 
-class Solution {
-    public void
+        // Find the first decreasing element from the right
+        while (i >= 0 && nums[i + 1] <= nums[i]) {
+            i--;
+        }
 
-    nextPermutation(int
+        // If such element exists, find the element just larger than it
+        if (i >= 0) {
+            let j = nums.length - 1;
+            while (j >= 0 && nums[j] <= nums[i]) {
+                j--;
+            }
+            // Swap them
+            swap(nums, i, j);
+        }
 
-    []
-    nums
-) {
-    int
-    i = nums.length - 2;
+        // Reverse the subarray to the right of position i
+        reverse(nums, i + 1);
+    };
 
-    while(i
-
->=
-    0
-&&
-    nums
-    [i + 1]
-<=
-    nums
-    [i]
-) {
-    i
---
-    ;
-}
-
-if (i >= 0) {
-    int
-    j = nums.length - 1;
-    while (j >= 0 && nums[j] <= nums[i]) {
-        j--;
-    }
-    swap(nums, i, j);
-}
-reverse(nums, i + 1);
-}
-
-private
-void reverse(int[]
-nums, int
-start
-)
-{
-    int
-    i = start, j = nums.length - 1;
+/**
+ * Reverses elements in nums array from start to end
+ */
+function reverse(nums, start) {
+    let i = start;
+    let j = nums.length - 1;
     while (i < j) {
         swap(nums, i, j);
         i++;
@@ -303,18 +287,13 @@ start
     }
 }
 
-private
-void swap(int[]
-nums, int
-i, int
-j
-)
-{
-    int
-    temp = nums[i];
+/**
+ * Swaps elements at positions i and j in nums array
+ */
+function swap(nums, i, j) {
+    const temp = nums[i];
     nums[i] = nums[j];
     nums[j] = temp;
-}
 }
 ```
 

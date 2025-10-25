@@ -20,6 +20,7 @@ There are three main types of workers in JavaScript:
     - Run scripts in background threads, separate from the main UI thread.
     - Useful for CPU-intensive tasks like data processing, calculations, etc.
     - Cannot directly access or manipulate the DOM.
+    - Web Workers can utilize IndexedDB for persistent storage, but not the standard Web Storage API (localStorage or sessionStorage) because they don't have access to the window object.
 - **Service workers**
     - Act as network proxies, handling requests between the app and network.
     - Enable offline functionality, caching, and push notifications.

@@ -166,6 +166,37 @@ We are creating instances of `me` constructor function of Object
 Referred Video: https://youtu.be/1UTqFAjYx1k?si=_rYdylQi8aK3zaO6
 
 
+
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+```js
+class Spiderman {
+  lookOut() {
+    alert('My Spider-Sense is tingling.');
+  }
+}
+
+let miles = new Spiderman();
+miles.lookOut();
+```
+
+```js
+// class Spiderman {
+let SpidermanPrototype = {
+  lookOut() {
+    alert('My Spider-Sense is tingling.');
+  }
+};
+
+// let miles = new Spiderman();
+let miles = { __proto__: SpidermanPrototype };
+miles.lookOut();
+```
+
+![img_3.png](img_3.png)
+
 ---
 </details>
 
