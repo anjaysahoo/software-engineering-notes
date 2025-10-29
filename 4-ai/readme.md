@@ -38,8 +38,11 @@ Referred Video: https://youtu.be/-uW5-TaVXu4?si=eokaEbTwtFh9xsi0
 - Create the system on how to use AI tools with consistent spec Markdown file
 - Be very consistent with your words across your specification. The Same word should mean the same thing across your specification
 
+### Spec -> Research -> Planning -> Implementation
+
 ![img.png](img.png)
 ![img_13.png](img_13.png)
+
 
 
 
