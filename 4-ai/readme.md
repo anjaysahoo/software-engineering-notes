@@ -11,7 +11,8 @@
 <details >
  <summary style="font-size: large; font-weight: bold">Overview </summary>
 
-**_Knowing limitation of anything is the most important thing to get most out it_**
+- **_Knowing limitation of anything is the most important thing to get most out it_**
+- **_Understanding AI is much easier if you start understanding how human works_**
 
 ### Keep your `Conetxt Window` as lean as possible to get best result
 
