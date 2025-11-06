@@ -9,7 +9,9 @@
 
 
 <details >
- <summary style="font-size: large; font-weight: bold">Context Window </summary>
+ <summary style="font-size: large; font-weight: bold">Overview </summary>
+
+**_Knowing limitation of anything is the most important thing to get most out it_**
 
 ### Keep your `Conetxt Window` as lean as possible to get best result
 
@@ -18,13 +20,142 @@
 
 ![img_101.png](img_101.png)
 ![img_103.png](img_103.png)
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+![img_17.png](img_17.png)
+![img_18.png](img_18.png)
 ![img_100.png](img_100.png)
 ![img_102.png](img_102.png)
 
 ![img_104.png](img_104.png)
+![img_19.png](img_19.png)
+
+---
+
+![img_20.png](img_20.png)
+
+---
+
+![img_21.png](img_21.png)
+
+---
+
+![img_22.png](img_22.png)
+
+---
+
+![img_23.png](img_23.png)
+
+---
+
+![img_24.png](img_24.png)
+
+---
+
+![img_25.png](img_25.png)
+
+---
+
+![img_26.png](img_26.png)
+
+---
+
+![img_27.png](img_27.png)
+
+---
+
+![img_28.png](img_28.png)
+
+---
+
+![img_29.png](img_29.png)
+
+---
+
+![img_30.png](img_30.png)
+
+---
+
+![img_31.png](img_31.png)
+
+---
+
+![img_32.png](img_32.png)
+
+---
+
+![img_34.png](img_34.png)
+
+---
+
+![img_35.png](img_35.png)
+
+---
+
+![img_36.png](img_36.png)
+
+---
+
+![img_37.png](img_37.png)
+
+---
+
+![img_38.png](img_38.png)
+
+---
+
+![img_39.png](img_39.png)
+
+---
+
+![img_40.png](img_40.png)
+
+---
+
+![img_41.png](img_41.png)
+
+---
+
+![img_42.png](img_42.png)
+
+---
+
+![img_43.png](img_43.png)
+
+- Consider AI Agent to be `Super Talented Junior Engineer` you just need have `**Mental Alignment**` 
+- Rather than reading his code line by line which is not practical
+
+---
+
+![img_44.png](img_44.png)
+
+---
+
+![img_45.png](img_45.png)
+
+---
+
+![img_46.png](img_46.png)
+
+---
+
+![img_47.png](img_47.png)
+
+---
+
+![img_48.png](img_48.png)
+
+---
+
+![img_49.png](img_49.png)
 
 
-Referred Video: https://youtu.be/-uW5-TaVXu4?si=eokaEbTwtFh9xsi0
+
+
+
+Referred Video: 
+- Matt Pocock: https://youtu.be/-uW5-TaVXu4?si=eokaEbTwtFh9xsi0
+- YC Humanlayer Talk: https://www.youtube.com/watch?v=IS_y40zY-hc
 
 -----
 </details>
@@ -37,6 +168,8 @@ Referred Video: https://youtu.be/-uW5-TaVXu4?si=eokaEbTwtFh9xsi0
 - Read each and everything from your `research` and `plan` steps
 - Create the system on how to use AI tools with consistent spec Markdown file
 - Be very consistent with your words across your specification. The Same word should mean the same thing across your specification
+
+
 
 ![img.png](img.png)
 ![img_13.png](img_13.png)
