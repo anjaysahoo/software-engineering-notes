@@ -123,7 +123,7 @@
 
 ![img_43.png](img_43.png)
 
-- Consider AI Agent to be `Super Talented Junior Engineer` you just need have `**Mental Alignment**` 
+- Consider AI Agent to be `Super Talented Junior Engineer` you just need to have `**Mental Alignment**` 
 - Rather than reading his code line by line which is not practical
 
 ---
